@@ -20,7 +20,7 @@ test_data=pd.read_csv("MiRNA_LncRNA_Meth_example.txt",sep=" ")
 ``` 
 ``` python
 ## Rows represent samples, and columns represent genes.
-                Meth_ZYX	Meth_ZZEF1	Meth_ZZZ3  RNA_EHD4.AS1	RNA_RP11.166P13
+                Meth_ZYX	Meth_ZZEF1	Meth_ZZZ3  RNA_EHD4.AS1 	RNA_RP11.166P13
 TCGA.OR.A5JG.01	0.859171	0.895151	0.100498	10.584045	0.000000
 TCGA.OR.A5L9.01	0.753927	0.804374	0.091260	0.000000	0.000000
 ```
